@@ -1,0 +1,4 @@
+base-url: "http://ntfy.sinistersquirrel.com"
+listen-http: ":2586"
+behind-proxy: true
+auth-default-access: "deny-all"
